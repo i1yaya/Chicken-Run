@@ -1,4 +1,4 @@
-# Chicken-Run
+# Chicken-Run 🐔
 
 **Chicken-Run** is an iOS app featuring exciting mini-games where you must help the chicken escape together.  
 Built with **SwiftUI**, the app combines fun gameplay, smooth animations, and interactive challenges.
